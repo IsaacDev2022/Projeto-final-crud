@@ -22,7 +22,7 @@ Para realizar todas as funções do CRUD, é recomendado usar Postman ou semelha
         "pg": "^8.10.0"
       }
     
-## Tutorial para baixar o projeto:
+## Tutorial para baixar e rodar o projeto:
 ### 1. Primeiro, faça um clone do projeto na máquina local:
      git clone https://github.com/IsaacDev2022/Projeto-final-crud.git
      
